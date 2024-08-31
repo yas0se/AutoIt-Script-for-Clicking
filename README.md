@@ -1,0 +1,1 @@
+# AutoIt-Script-for-Clicking
